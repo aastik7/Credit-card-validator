@@ -1,3 +1,4 @@
+#Steps
 # 1. Remove any '-' or ' '
 # 2. Add all digits in the odd places from right to left
 # 3. Double every second digit from right to left.
